@@ -1,0 +1,31 @@
+{
+    "user_id_1": {
+        "medicine1": "0-0-1",
+        "medicine2": "0-1-0",
+        "medicine3": "1-0-1"
+    },
+    "user_id_2": {
+        "medicine1": "0-0-1",
+        "primolut": "0-1-0",
+        "medicine3": "1-0-1"
+    },
+    "user_id_3": {
+        "medicine1": "0-0-1",
+        "medicine2": "0-1-0",
+        "cracksol": "1-0-1"
+    },
+    "user_id_7": {
+        "digene": "0-2-1",
+        "medicine1": "1-2-3-4",
+        "medicine": "0-0-2",
+        "medicine3": "1-0-3",
+        "B-complex": "After dinner"
+    },
+    "Tl6XNweeLTgWEMwJo7djrmDZL8E2": {
+        "thyronorm": "night after dinner",
+        "rejunex": "before dinner "
+    },
+    "gl9omITa1IeJnZwCajCuGuVLwHw2": {
+        "Amoxicillin ": "before lunch "
+    }
+}
